@@ -27,7 +27,9 @@ O projeto foi desenvolvido como atividade avaliatoria para a materia de PAM-II n
 > Abrir a pasta com Git Bash
 
 3- Instalar dependencias 
-> npm i
+```
+npm i
+```
 
 4- Iniciar Aplicaçao 
 ```
