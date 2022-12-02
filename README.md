@@ -31,8 +31,8 @@ O projeto foi desenvolvido como atividade avaliatoria para a materia de PAM-II n
 
 4- Iniciar Aplicaçao 
 ```
-> code .
-> ionic serve -o
+code .
+ionic serve -o
 ```
 
 
