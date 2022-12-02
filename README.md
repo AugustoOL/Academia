@@ -30,8 +30,10 @@ O projeto foi desenvolvido como atividade avaliatoria para a materia de PAM-II n
 > npm i
 
 4- Iniciar Aplicaçao 
+```
 > code .
 > ionic serve -o
+```
 
 
 ## :rocket: Tecnologias
